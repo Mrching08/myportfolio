@@ -18,7 +18,7 @@ linkedin:  https://www.linkedin.com/in/ritchie-john-gumera-976057265/
 <h1>VIEW HERE!</h1>
 GITHUB URL: https://mrching08.github.io/myportfolio/<br>
 NETLIFY URL: https://ritchiejohngumera.netlify.app/
-<br>
+
 ![screenshot (5)](https://github.com/Mrching08/porfolio/assets/112615845/1a66e517-6e85-478a-9d4b-ed06fd10a1ce)
 
 
