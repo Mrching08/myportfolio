@@ -17,7 +17,7 @@ pure<br>
 
 <h1>VIEW HERE!</h1>
 GITHUB URL: https://mrching08.github.io/myportfolio/<br>
-NETLIFY URL: 
+NETLIFY URL: https://ritchiejohngumera.netlify.app/
 
 ![screenshot (5)](https://github.com/Mrching08/porfolio/assets/112615845/1a66e517-6e85-478a-9d4b-ed06fd10a1ce)
 
